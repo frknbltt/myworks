@@ -1,4 +1,4 @@
-# Live link https://bulutme.github.io/myworks/
+# Live link https://myworksfrkn.netlify.app/
 
 # Getting Started with Create React App
 
