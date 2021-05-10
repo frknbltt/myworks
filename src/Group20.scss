@@ -1,0 +1,21 @@
+.group20 {
+  width: 426px;
+  height: 409px;
+  border-radius: 15px;
+  div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 21px;
+    background-image: url("./Rectangle\ 3.png");
+    width: 426px;
+    height: 409px;
+    svg {
+      border-radius: 30px;
+    }
+    i {
+      margin-left: auto;
+    }
+  }
+}

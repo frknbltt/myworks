@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+* {
+  font-family: Roboto;
+  margin: 0;
+  padding: 0;
+}
+
+.group15 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  width: 359px;
+  height: 88px;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 15px;
+}
+
+.group15 button {
+  color: black;
+  background-color: #fff;
+  width: 125px;
+  height: 58px;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.group15 button:focus {
+  background: #2c698d;
+  border-radius: 10px;
+  color: #fff;
+}
+/*# sourceMappingURL=Group15.css.map */

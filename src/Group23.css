@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.group23 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  padding: 25px;
+  width: 395px;
+  height: 407px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.group23 .card-div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 18px 18px 17px 15px;
+  background: #ffffff;
+  border-radius: 10px;
+  width: 345px;
+  height: 95px;
+}
+
+.group23 .card-div .left-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #272643;
+}
+
+.group23 .card-div .left-item div {
+  margin-left: 15px;
+}
+
+.group23 .card-div .left-item div p {
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=Group23.css.map */

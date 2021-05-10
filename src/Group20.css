@@ -1,0 +1,34 @@
+.group20 {
+  width: 426px;
+  height: 409px;
+  border-radius: 15px;
+}
+
+.group20 div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 21px;
+  background-image: url("./Rectangle 3.png");
+  width: 426px;
+  height: 409px;
+}
+
+.group20 div svg {
+  border-radius: 30px;
+}
+
+.group20 div i {
+  margin-left: auto;
+}
+/*# sourceMappingURL=Group20.css.map */
